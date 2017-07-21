@@ -1,5 +1,5 @@
 (defproject allocation_clj "0.1.0-SNAPSHOT"
-  :description "Allocation Clojure pet project"
+  :description "Allocation project in Clojure"
   :url "http://example.com/FIXME"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
